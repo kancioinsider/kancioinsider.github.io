@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "Info Berbaru"
+  - title: "Berita"
     url: /year-archive/
-  - title: "Collections"
+  - title: "Koleksi"
     url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
   - title: "Tentang kami"
     url: /about/
